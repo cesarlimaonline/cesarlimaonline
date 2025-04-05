@@ -2,8 +2,8 @@
 <div>
 <a href="https://github.com/cesarlimaonline">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarlimaonline&show_icons=true&theme=tokyonight&include_all_commitstrue&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/username=cesarlimaonline&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?toplangs/username=cesarlimaonline&layout=compact&langs_count=6&theme=tokyonight"/>
+</div> 
 <div style="display:inline-block">
 <br>
 <img align="center" alt="Js" height="30" width="40"
